@@ -6,3 +6,7 @@
 ssDDM_plots/*
 
 *.png
+*.jpg
+*.jpeg
+*.svg
+*.eps
