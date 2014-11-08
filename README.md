@@ -1,4 +1,0 @@
-pynb
-====
-
-iPython Notebooks
